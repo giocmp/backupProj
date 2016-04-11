@@ -1,0 +1,16 @@
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\bin\Debug\ProgettoPDS.exe.config
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS.csprojResolveAssemblyReference.cache
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\signup_window.baml
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\MainWindow.g.cs
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\signup_window.g.cs
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\App.g.cs
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS_MarkupCompile.cache
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS_MarkupCompile.lref
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\bin\Debug\ProgettoPDS.exe
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\bin\Debug\ProgettoPDS.pdb
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\MainWindow.baml
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS.g.resources
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS.Properties.Resources.resources
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS.csproj.GenerateResource.Cache
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS.exe
+C:\Users\sds\Documents\Visual Studio 2013\Projects\ProgettoPDS\obj\Debug\ProgettoPDS.pdb
